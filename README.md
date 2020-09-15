@@ -1,28 +1,8 @@
-### Hi there 👋
-
-Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
-<br />
-
-
-  
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<h2 align="center">👋 Hello! I'm Athul.</h2>
+<h2 align="center">👋 Hello! I'm Santipong.</h2>
 <p align="center">
-  <a href="https://blog.athulcyriac.co">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 </p>
-
+<br />
 
 - 🔭 I’m currently working on **A Platform for Hackathons in Kerala**
 - 🌱 I’m currently learning **Go and Algorithms**
