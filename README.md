@@ -35,7 +35,7 @@ I am Santipong Thaiprayoon. a Full Stack Web Developer and Content Creator on [Y
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=santipongth.santipongth)
 
 <details>
 <summary>
