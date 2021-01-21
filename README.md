@@ -1,6 +1,8 @@
 <h2 align="center">👋 Hello! I'm Santipong.</h2>
 
-I am Santipong Thaiprayoon. I am currently working as research assistant at speech and text understanding research team, National Electronics and Computer Technology Center (NECTEC). My responsibilities are to research and develop on technologies related to human intelligence, including natural language understanding, information retrieval, and technologies for social text analysis. I am especially interested in analyzing semantic sentences posed by humans from enormous amounts of text to improve question answering system. Moreover, I am an open-minded software engineer and interested in many things related to artificial intelligence. I have been studying in the field of information retrieval, natural language processing, machine learning, and deep learning.
+<p>I am Santipong Thaiprayoon. I am currently working as research assistant at speech and text understanding research team, National Electronics and Computer Technology Center (NECTEC). My responsibilities are to research and develop on technologies related to human intelligence, including natural language understanding, information retrieval, and technologies for social text analysis. I am especially interested in analyzing semantic sentences posed by humans from enormous amounts of text to improve question answering system. Moreover, I am an open-minded software engineer and interested in many things related to artificial intelligence. I have been studying in the field of information retrieval, natural language processing, machine learning, and deep learning.</p>
+
+---
 
 **Connect with me:**
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
