@@ -5,7 +5,7 @@
 ---
 
 **Connect with me:**
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
 [<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Sabesan | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
@@ -23,15 +23,6 @@
 
 ---
 
-**Talking about Personal Stuffs:**
-- 🔭 I’m currently working on **A Platform for Hackathons in Kerala**
-- 🌱 I’m currently learning **Go and Algorithms**
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
-
----
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -44,5 +35,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br />
-<br />
